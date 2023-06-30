@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv220&label=Profile%20views&color=0e75b6&style=flat" alt="shiv220" /> </p>
 
 
-
-- 🌱 I’m currently learning **MEAN/MERN**
 - 👨‍💻 I'm passinate about web development
+- 🌱 I’m currently learning **MEAN/MERN**
+
 
 - 💬 Ask me about **Html,CSS,Angular,React**
 
